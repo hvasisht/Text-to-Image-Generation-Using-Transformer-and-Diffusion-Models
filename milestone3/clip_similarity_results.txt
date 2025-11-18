@@ -1,0 +1,13 @@
+Average CLIP Similarity: 31.8458
+
+Individual Results:
+image_01.png: 32.3203
+image_02.png: 32.3144
+image_03.png: 31.7198
+image_04.png: 33.7926
+image_05.png: 32.4921
+image_06.png: 28.6616
+image_07.png: 31.2084
+image_08.png: 30.7777
+image_09.png: 31.0130
+image_10.png: 34.1578

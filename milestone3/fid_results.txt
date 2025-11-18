@@ -1,0 +1,3 @@
+FID Score: 374.47
+Generated images: 10
+Reference images: 500

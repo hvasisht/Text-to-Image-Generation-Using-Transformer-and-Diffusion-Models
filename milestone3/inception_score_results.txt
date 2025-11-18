@@ -1,0 +1,2 @@
+Inception Score: 5.08 ± 0.00
+Number of images: 10
